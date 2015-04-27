@@ -1,0 +1,12 @@
+.spacer{
+	margin-top: 24px;
+	
+}
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th{
+	background-color: #428BCA;
+	 color: #ffffff;
+}
+.clickable{
+	cursor: pointer;
+}
